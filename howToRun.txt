@@ -1,0 +1,17 @@
+## How to Run
+
+#Install Requirements - `pip install -r requirements.txt`
+
+
+1. Start Backend:
+   - Go to `ml_api/`
+   - Run: `uvicorn ml_api:app --reload`
+
+2. Start Frontend:
+   - Go to `frontend/`
+   - Run: `npm install`
+   - Run: `npm run dev`
+
+3. Open browser:
+   - Frontend: http://localhost:5173
+   - Backend API Docs: http://127.0.0.1:8000/docs
