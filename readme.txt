@@ -1,6 +1,6 @@
 ---
 ## © Copyright
-© 2026 Addy (Aditya Gupta). All rights reserved.
+© 2026 Adssin (Aditya Gupta). All rights reserved.
 This project is developed for academic and educational purposes.  
 Unauthorized commercial use, distribution, or modification without permission is not allowed.
 ---
